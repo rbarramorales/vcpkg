@@ -1,6 +1,6 @@
 {
   "name": "vcpkg-sample-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sample C++ library designed to serve as a foundational example for a tutorial on packaging libraries with vcpkg.",
   "homepage": "https://github.com/microsoft/vcpkg-docs/tree/cmake-sample-lib",
   "license": "MIT",
