@@ -1,10 +1,8 @@
-vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
-
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Microsoft/vcpkg-docs
     REF "${VERSION}"
-    SHA512 3f206cc2fe61d9c97c82b30852e1e4e6df299d93f6159edd1e56c644fa03ccc4670f7681e356d0e3db898a74e099a1ec531821df5430a7b14d61c743c5aa8c30
+    SHA512 fc55ce73b9175bdfedd73d9df1e7ed744de7ee3fd4aa51cafce65ee7bd49e56dc68301843c31d2ba017fd362663c25f53bbf56cfd35dbac09520e39b86bc25b8
     HEAD_REF cmake-sample-lib
 )
 
